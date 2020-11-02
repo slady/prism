@@ -23,15 +23,22 @@ The [raise prism layer definition](prism-raise.json):
 
 # Lower
 
-The Lower layer introduces the nav cluster
-(arrow keys, PgUp, PgDn, Home, End, Insert, Delete)
-two special keys (PrtSc and Pause/Break)
+The Lower layer introduces the nav cluster:
+PgUp, PgDn, Home, End, Insert, Delete,
+and the arrow keys in the ijkl shape.
 
-["~\n`","!","^","@","","","","","↑","","",""],
-["Ctrl","&","$","","#","","","←","↓","→","_\n-","+\n="],
-["Shift","%","*","(",")","","","","{\n[","}\n]","|\n\\",""],
-[{x:4,w:2},"",{w:2},""]
+The three missing symbol keys to the right of the **P** key
+moved to the right of the **M** key,
+two keys from number row to the right of the **0** key
+moved to the right of the **L** key.
 
+Other symbols from the number row dwell on letters
+based on their shapes, for example, the dollar sign **$**
+resembles the letter **S**, the asterisk * looks almost like an **X**
+and left parenthesis **(** is similar to the letter **C**.
+At least this is what they look to me. I hope you get the idea! ;)
+
+Two special keys **PrtSc** sits on **P** and **Pause/Break** on **B**.
 
 The [lower prism layer definition](prism-lower.json):
 
