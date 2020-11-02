@@ -7,21 +7,25 @@ or the 60% keyboard. It is almost identical to the Planck keyboard,
 only Ctrl and Alt keys moved to the left side of the keyboard
 and there is a split space bar on the bottom.
 
-[default prism layer definition](prism-default.json):
+The [default prism layer definition](prism-default.json):
 
 ![default prism layer](prism-default.png)
+
+# Raise
+
+The Raise layer introduces function keys F1 - F12,
+numbers arranged in a numpad style and sever other
+missing keys: Scroll Lock, Caps Lock, Num Lock, Esc, Win and Menu.
+
+The [raise prism layer definition](prism-raise.json):
+
+![raise prism layer](prism-raise.png)
 
 Lower:
 
 ![lower prism layer](prism-lower.png)
 
 [lower prism layer](prism-lower.json)
-
-Raise:
-
-![raise prism layer](prism-raise.png)
-
-[raise prism layer](prism-raise.json)
 
 Complete:
 
