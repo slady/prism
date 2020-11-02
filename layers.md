@@ -44,8 +44,10 @@ The [lower prism layer definition](prism-lower.json):
 
 ![lower prism layer](prism-lower.png)
 
-Complete:
+# Complete Prism
+
+This is what the Prism looks like in its full glory!
+
+The [complete prism layers definition](prism-complete.json):
 
 ![complete prism layers](prism-complete.png)
-
-[complete prism layers](prism-complete.json)
