@@ -21,11 +21,21 @@ The [raise prism layer definition](prism-raise.json):
 
 ![raise prism layer](prism-raise.png)
 
-Lower:
+# Lower
+
+The Lower layer introduces the nav cluster
+(arrow keys, PgUp, PgDn, Home, End, Insert, Delete)
+two special keys (PrtSc and Pause/Break)
+
+["~\n`","!","^","@","","","","","↑","","",""],
+["Ctrl","&","$","","#","","","←","↓","→","_\n-","+\n="],
+["Shift","%","*","(",")","","","","{\n[","}\n]","|\n\\",""],
+[{x:4,w:2},"",{w:2},""]
+
+
+The [lower prism layer definition](prism-lower.json):
 
 ![lower prism layer](prism-lower.png)
-
-[lower prism layer](prism-lower.json)
 
 Complete:
 
