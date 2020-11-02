@@ -8,12 +8,12 @@ Default:
 
 Lower:
 
-![loser prism layer](prism-lower.json)
+![lower prism layer](prism-lower.png)
 
-[loser prism layer](prism-lower.png)
+[lower prism layer](prism-lower.json)
 
 Raise:
 
-![raise prism layer](prism-raise.json)
+![raise prism layer](prism-raise.png)
 
-[raise prism layer](prism-raise.png)
+[raise prism layer](prism-raise.json)
