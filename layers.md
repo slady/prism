@@ -17,3 +17,9 @@ Raise:
 ![raise prism layer](prism-raise.png)
 
 [raise prism layer](prism-raise.json)
+
+Complete:
+
+![complete prism layers](prism-complete.png)
+
+[complete prism layers](prism-complete.json)
