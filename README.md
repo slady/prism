@@ -1,2 +1,5 @@
 # prism
-prism is an ortho linear mechanical keyboard
+
+Prism is an ortho linear mechanical keyboard.
+
+Have a look at the [layout](layout.md).
