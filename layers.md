@@ -2,7 +2,8 @@ These are the layers of Prism.
 
 # Default
 
-The default layer based on the standard layer of the full size keyboard
+The default layer is based on the standard layout
+of the alphanumerical part of the full size keyboard
 or the 60% keyboard. It is almost identical to the Planck keyboard,
 only Ctrl and Alt keys moved to the left side of the keyboard
 and there is a split space bar on the bottom.
@@ -21,6 +22,9 @@ The [raise prism layer definition](prism-raise.json):
 
 ![raise prism layer](prism-raise.png)
 
+(There are still two keys reserved for future use,
+however for the time being serving as the additional Enter keys.)
+
 # Lower
 
 The Lower layer introduces the nav cluster:
@@ -33,8 +37,9 @@ two keys from number row to the right of the **0** key
 moved to the right of the **L** key.
 
 Other symbols from the number row dwell on letters
-based on their shapes, for example, the dollar sign **$**
-resembles the letter **S**, the asterisk * looks almost like an **X**
+based on their shapes, for example,
+the dollar sign **$** resembles the letter **S**,
+the asterisk * looks almost like an **X**
 and left parenthesis **(** is similar to the letter **C**.
 At least this is what they look to me. I hope you get the idea! ;)
 
@@ -44,6 +49,8 @@ More special keys: **PrtSc** sits on **P** and **Pause/Break** on **B**,
 The [lower prism layer definition](prism-lower.json):
 
 ![lower prism layer](prism-lower.png)
+
+(There are still three unused keys.)
 
 # Complete Prism
 
