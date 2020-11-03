@@ -1,4 +1,4 @@
-["~\n`","!","^","@","","","PgUp","Home","↑","End","PrtSc","Delete"],
-["Ctrl","&","$","","#","","PgDn","←","↓","→","_\n-","+\n="],
-["Shift","%","*","(",")","Pause\nBreak","","","{\n[","}\n]","|\n\\","Insert"],
+["~\n`","!","^","@","","Scroll Lock","PgUp","Home","↑","End","PrtSc","Delete"],
+["Ctrl","&","$","","#","Caps Lock","PgDn","←","↓","→","_\n-","+\n="],
+["Shift","%","*","(",")","Pause\nBreak","Num Lock","","{\n[","}\n]","|\n\\","Insert"],
 [{x:4,w:2},"",{w:2},""]
