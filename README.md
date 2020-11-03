@@ -2,7 +2,7 @@
 
 Prism is an ortho linear mechanical keyboard.
 
-Have a look at the [layout](layers.md).
+Have a look at the [Prism layout](layers.md).
 
 Designing the Keyboard:
 
