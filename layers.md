@@ -14,8 +14,8 @@ The [default prism layer definition](prism-default.json):
 # Raise
 
 The Raise layer introduces function keys F1 - F12,
-numbers arranged in a numpad style and six other
-of the missing keys: Scroll Lock, Caps Lock, Num Lock, Esc, Win and Menu.
+numbers arranged in a numpad style and three other
+of the missing keys: Esc, Win and Menu.
 
 The [raise prism layer definition](prism-raise.json):
 
