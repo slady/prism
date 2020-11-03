@@ -4,6 +4,12 @@ Prism is an ortho linear mechanical keyboard.
 
 Have a look at the [layout](layers.md).
 
+Designing the Keyboard:
+
+* [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/)
+* [swillkb Plate & Case Builder](http://builder.swillkb.com/)
+* [Keyboard Firmware Builder](https://kbfirmware.com/)
+
 Tips to hand wire:
 
 * [QMK: Hand Wiring Guide](https://beta.docs.qmk.fm/using-qmk/guides/keyboard-building/hand_wire)
