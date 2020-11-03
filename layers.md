@@ -38,7 +38,8 @@ resembles the letter **S**, the asterisk * looks almost like an **X**
 and left parenthesis **(** is similar to the letter **C**.
 At least this is what they look to me. I hope you get the idea! ;)
 
-Two special keys **PrtSc** sits on **P** and **Pause/Break** on **B**.
+More special keys: **PrtSc** sits on **P** and **Pause/Break** on **B**,
+**NumLock** on **N**, **CapsLock** on **G** and **ScrollLock** on **T**.
 
 The [lower prism layer definition](prism-lower.json):
 
