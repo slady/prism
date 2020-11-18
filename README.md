@@ -1,4 +1,4 @@
-# prism
+# Prism the ortholinear keyboard
 
 Prism is my idea of the 35% ortholinear mechanical keyboard.
 
