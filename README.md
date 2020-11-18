@@ -1,6 +1,6 @@
 # prism
 
-Prism is an ortho linear mechanical keyboard.
+Prism is my idea of the 35% ortholinear mechanical keyboard.
 
 Have a look at the [Prism layout](layers.md).
 
