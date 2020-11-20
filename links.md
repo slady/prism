@@ -16,3 +16,7 @@ Tips for QMK definitions:
 * [One Shot Keys](https://docs.qmk.fm/#/one_shot_keys)
 * [Mod-Tap](https://docs.qmk.fm/#/mod_tap)
 * [Tap and hold actions](https://thomasbaart.nl/2018/12/09/qmk-basics-tap-and-hold-actions/)
+
+Some coding:
+* [Mod-tap (Layer-tap) Optimization](http://blog.hgao.net/post/qmk-mod-key/)
+* [Layer Tap (LT) in Let's Split ](https://gist.github.com/okapies/5f99a6f825f6ee3d826dd82279de8247)
