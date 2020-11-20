@@ -14,16 +14,14 @@ The [default prism layer definition](prism-default.json):
 
 # Raise
 
-The Raise layer introduces function keys F1 - F12,
-numbers arranged in a numpad style and three other
-of the missing keys: Esc, Win and Menu.
+The Raise layer introduces function keys F1 - F12
+and numbers arranged in a numpad style.
 
 The [raise prism layer definition](prism-raise.json):
 
 ![raise prism layer](prism-raise.png)
 
-(There are still two keys reserved for future use,
-however for the time being serving as the additional Enter keys.)
+(There are still three unused keys.)
 
 # Lower
 
@@ -37,20 +35,37 @@ two keys from number row to the right of the **0** key
 moved to the right of the **L** key.
 
 Other symbols from the number row dwell on letters
-based on their shapes, for example,
-the dollar sign **$** resembles the letter **S**,
-the asterisk * looks almost like an **X**
-and left parenthesis **(** is similar to the letter **C**.
+based on the shapes they resemble.
+
+| Symbol | Key |
+| ------ | --- |
+| ! | T |
+| @ | Q |
+| # | F |
+| $ | S |
+| % | Z |
+| ^ | V |
+| & | A |
+| * | X |
+| ( | C |
+| ) | D |
+
 At least this is what they look to me. I hope you get the idea! ;)
 
-More special keys: **PrtSc** sits on **P** and **Pause/Break** on **B**,
-**NumLock** on **N**, **CapsLock** on **G** and **ScrollLock** on **T**.
+More special keys:
 
+| Command | Key |
+| ------- | ----|
+| PrtSc | P |
+| Pause/Break | B |
+| NumLock | N |
+| Menu | M |
+| CapsLock | G |
+| ScrollLock | T |
+ 
 The [lower prism layer definition](prism-lower.json):
 
 ![lower prism layer](prism-lower.png)
-
-(There are still three unused keys.)
 
 # Complete Prism
 
