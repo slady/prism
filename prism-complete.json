@@ -1,4 +1,4 @@
-["Alt\nTab\n~\n`","Q\n!\nF1","W\n^\nF2","E\n@\nF3","R\n\nF4","T\nScroll Lock\nEsc","Y\nPgUp\n\n\n\n\n\n\n7","U\nHome\n\n\n\n\n\n\n8","I\n↑\n\n\n\n\n\n\n9","O\nEnd\n\n\n\n\n\n\n-","P\nPrtSc\n\n\n\n\n\n\n/","Back Space Delete"],
-["Ctrl\nFnUp","A\n&\nF5","S\n$\nF6","D\n\nF7","F\n#\nF8","G\nCaps Lock\nWin","H\nPgDn\n\n\n\n\n\n\n4","J\n←\n\n\n\n\n\n\n5","K\n↓\n\n\n\n\n\n\n6","L\n→\n\n\n\n\n\n\n+",":\n;\n_\n-\n\n\n\n\n*","\"\n'\n+\n="],
-["Shift\nFnDn","Z\n%\nF9","X\n*\nF10","C\n(\nF11","V\n)\nF12","B\nPause Break\nMenu","N\nNum Lock\n\n\n\n\n\n\n1","M\n\n\n\n\n\n\n\n2","<\n,\n{\n[\n\n\n\n\n3",">\n.\n}\n]\n\n\n\n\n.","?\n/\n|\n\\","Enter Shift Ins"],
+["Alt\nTab\n~\n`","Q\n@\nF1","W\nWin\nF2","E\nEsc\nF3","R\nScroll Lock\nF4","T\n!","Y\nPgUp\n\n\n\n\n\n\n7","U\nHome\n\n\n\n\n\n\n8","I\n↑\n\n\n\n\n\n\n9","O\nEnd\n\n\n\n\n\n\n*","P\nPrtSc\n\n\n\n\n\n\n/","Back Space Delete"],
+["Ctrl\nFnUp","A\n&\nF5","S\n$\nF6","D\n)\nF7","F\n#\nF8","G\nCaps Lock","H\nPgDn\n\n\n\n\n\n\n4","J\n←\n\n\n\n\n\n\n5","K\n↓\n\n\n\n\n\n\n6","L\n→\n\n\n\n\n\n\n+",":\n;\n_\n-\n\n\n\n\n-","\"\n'\n+\n="],
+["Shift\nFnDn","Z\n%\nF9","X\n*\nF10","C\n(\nF11","V\n^\nF12","B\nPause Break","N\nNum Lock\n\n\n\n\n\n\n1","M\nMenu\n\n\n\n\n\n\n2","<\n,\n{\n[\n\n\n\n\n3",">\n.\n}\n]\n\n\n\n\n.","?\n/\n|\n\\\n\n\n\n\n,","Enter Shift Ins"],
 [{x:4,w:2},"",{w:2},""]
