@@ -1,1 +1,1 @@
-Prism has been superseded by [100110B](/slady/100110B).
+Prism has been superseded by [100110B](https://github.com/slady/100110B).
