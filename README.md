@@ -1,7 +1,1 @@
-# Prism the ortholinear keyboard
-
-Prism is my idea of the 35% ortholinear mechanical keyboard.
-
-Have a look at the [Prism layout](layers.md).
-
-[Useful links](links.md) for building.
+Prism has been superseded by [100110B](/slady/100110B).
